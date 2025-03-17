@@ -1,0 +1,4 @@
+ pip install requests beautifulsoup4
+
+# Digite o host (ex.: http://bancocn.com)
+# Digite o trecho de busca (ex.: .php?id=)
